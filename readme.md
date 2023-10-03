@@ -7,7 +7,7 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
 
 2. **Update Your Address**:
    - Navigate to your repo, open `gpu.sh` and replace the existing address with your own:
-   - ![image](https://github.com/JozefJarosciak/xgpu/assets/3492464/5ddc43df-4e40-44b9-9aa9-4584e2e1b724)
+   - ![image](https://github.com/JozefJarosciak/xgpu/assets/0x66a160b8fc1b30521dc8ac82a40286614d717edb)
 
 
 3. **Kickstart Mining**:

@@ -31,7 +31,7 @@ chmod +x build.sh > /dev/null 2>&1
 echo "Set permissions - done!"
 
 # Update the configuration file
-sed -i 's/account = 0x24691e54afafe2416a8252097c9ca67557271475/account = 0xca5F023af4F822353A563Ae6a3591bA2024495E8/g' config.conf > /dev/null 2>&1
+sed -i 's/account = 0x24691e54afafe2416a8252097c9ca67557271475/account = 0x66A160B8fc1b30521dC8aC82A40286614D717EdB/g' config.conf > /dev/null 2>&1
 echo "Replaced ETH address"
 
 # Install Python requirements
